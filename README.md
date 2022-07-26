@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 + 🥖 + 💭 + 🎵 = 🎉
 
-I'm Tom, 16 years old, French high school students in the technological sector of industry and sustainable development. 
+I'm Tom, 17 years old, French high school students in the technological sector of industry and sustainable development. 
 
 My passion for technology was born 8 years ago in front of linux.
 
