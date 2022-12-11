@@ -4,7 +4,7 @@
 # **Hello, All World!** 👋👋🏻👋🏼👋🏽👋🏾👋🏿
 
 ### 🧑‍💻 + 🥖 + 💭 + 🎵 = 🎉
-<a href="https://discord.gg/Qp4GNyX"><img title="Crash EVN" src="https://badgen.net/discord/members/Qp4GNyX"></a>
+[![Crash EVN Discord](https://badgen.net/discord/members/Qp4GNyX?icon=discord)](https://discord.gg/Qp4GNyX)
 [![Twitter Followers](https://badgen.net/twitter/follow/tom_theret?icon=twitter)](https://twitter.com/tom_theret)
 [![Generic badge](https://img.shields.io/badge/Instagram-Follow_@tom.theret-5B51D8.svg)](https://instagram.com/tom.theret)
 </div>
