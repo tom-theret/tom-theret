@@ -1,6 +1,11 @@
+
+<div align=center>
+
 # **Hello, All World!** 👋👋🏻👋🏼👋🏽👋🏾👋🏿
 
 ### 🧑‍💻 + 🥖 + 💭 + 🎵 = 🎉
+</div>
+
 
 I'm Tom, 18 years old, French high school students in the technological sector of industry and sustainable development. 
 
