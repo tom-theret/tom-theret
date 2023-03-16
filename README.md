@@ -4,9 +4,7 @@
 # **Hello, All World!** 👋👋🏻👋🏼👋🏽👋🏾👋🏿
 
 ### 🧑‍💻 + 🥖 + 💭 + 🎵 = 🎉
-[![Crash EVN Discord](https://badgen.net/discord/members/Qp4GNyX?icon=discord)](https://discord.gg/Qp4GNyX)
-[![Twitter Followers](https://badgen.net/twitter/follow/tom_theret?icon=twitter)](https://twitter.com/tom_theret)
-[![Generic badge](https://img.shields.io/badge/Instagram-Follow_@tom.theret-5B51D8.svg)](https://instagram.com/tom.theret)
+[![Generic badge](https://img.shields.io/badge/Tom%20Theret-Linkedin-blue)](https://www.linkedin.com/in/tom-theret-784b42235/)
 </div>
 
 I'm Tom, 18 years old, French high school students in the technological sector of industry and sustainable development. 
