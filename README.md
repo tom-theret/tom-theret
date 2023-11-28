@@ -7,7 +7,7 @@
 [![Generic badge](https://img.shields.io/badge/Tom%20Theret-Linkedin-blue)](https://www.linkedin.com/in/tom-theret-784b42235/)
 </div>
 
-I'm Tom, 18 years old, French high school students in the IT sector. 
+I'm Tom, 19 years old, French high school students in the IT sector. 
 
 My passion for technology was born 8 years ago in front of linux.
 
